@@ -1,6 +1,9 @@
 🐙 GitHub User Info Project
 
 Projeto proposto pelo site roadmap.sh e tem como objetivo objetivo principal buscar e exibir informações sobre atvidades de usuários do github.
+
+Código inspirado na solução publica do https://github.com/dansholds/roadmap-github-activity
+
 No meu projeto eu acrecentei a função para buscar informações de perfil, agora no arquivo ele está divido por 'atividades' e 'informações de perfil'
 
 Como Rodar o Projeto
